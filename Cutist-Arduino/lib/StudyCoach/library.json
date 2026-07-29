@@ -1,0 +1,15 @@
+{
+  "name": "StudyCoach",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "dependencies": {
+    "Config": "^1.0.0",
+    "StudySession": "^1.0.0",
+    "FaceRenderer": "^1.0.0",
+    "EarAnimator": "^1.0.0",
+    "SoundPlayer": "^1.0.0",
+    "SerialProtocol": "^1.0.0",
+    "Wire": "*"
+  }
+}

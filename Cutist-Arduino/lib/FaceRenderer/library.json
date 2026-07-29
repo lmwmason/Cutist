@@ -1,0 +1,12 @@
+{
+  "name": "FaceRenderer",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "dependencies": {
+    "Config": "^1.0.0",
+    "Adafruit GFX Library": "^1.11.11",
+    "Adafruit SSD1306": "^2.5.13",
+    "Wire": "*"
+  }
+}

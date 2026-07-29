@@ -1,0 +1,10 @@
+{
+  "name": "SerialProtocol",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "dependencies": {
+    "Config": "^1.0.0",
+    "StudySession": "^1.0.0"
+  }
+}

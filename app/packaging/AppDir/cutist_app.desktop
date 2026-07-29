@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Cutist
+Comment=Adaptive pomodoro companion for the Cutist desk robot
+Exec=cutist_app
+Icon=cutist_app
+Categories=Utility;
+Terminal=false
